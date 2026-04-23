@@ -33,10 +33,6 @@ I'm a Web Developer & Systems Engineer with a background in Digital Concept Arts
 ![Gemini](https://img.shields.io/badge/gemini-%238E75B2.svg?style=for-the-badge&logo=google&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117BAC.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### 📊 GitHub Stats
-
-[![Aidil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaidilakbarr&show_icons=true&hide_border=true&title_color=15803d&icon_color=15803d)](https://github.com/aaidilakbarr)
-
 ### 📫 Let's Connect!
 [![Portfolio](https://img.shields.io/badge/Portfolio-15803d?style=for-the-badge&logo=Web&logoColor=white)](https://aaidilakbarr.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-15803d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aidilakbar05@gmail.com)
