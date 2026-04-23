@@ -4,6 +4,8 @@
 
 I'm a Junior Web Developer & Junior Systems Engineer with a background in Digital Concept Arts. I design and code for the web, valuing simple content structure, clean design patterns, and thoughtful interactions. Also addicted to Data Analytics
 
+![Profile Views](https://komarev.com/ghpvc/?username=aaidilakbarr&color=15803d&style=for-the-badge&label=PROFILE+VIEWS)
+
 ### 🛠️ Tech Stack & Tools
 
 **Frontend & UI Design**
