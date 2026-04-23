@@ -2,14 +2,7 @@
 
 **"Learning, Living, and Leveling Up."**
 
-I'm a Web Developer & Systems Engineer with a background in Digital Concept Arts. I design and code for the web, valuing simple content structure, clean design patterns, and thoughtful interactions. 
-
-### 🚀 What I'm Up To
-- 💻 Currently building and refining **SIGAP**, a comprehensive proposal management and monitoring system.
-- 🎨 Blending digital visual arts with frontend web design to create fun, engaging Web UIs.
-- 🤖 Exploring and integrating AI with workflow automation to build smarter dashboards.
-- 🔧 Troubleshooting and optimizing Android/Cordova mobile environments and Laravel deployments.
-- 🏙️ Taking a break from the terminal by planning the ultimate city layouts in **TheoTown**.
+I'm a Junior Web Developer & Junior Systems Engineer with a background in Digital Concept Arts. I design and code for the web, valuing simple content structure, clean design patterns, and thoughtful interactions. Also addicted to Data Analytics
 
 ### 🛠️ Tech Stack & Tools
 
@@ -28,10 +21,10 @@ I'm a Web Developer & Systems Engineer with a background in Digital Concept Arts
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**Workflow, AI & CMS**
+**Workflow, AI**
 ![n8n](https://img.shields.io/badge/n8n-%23EA4B33.svg?style=for-the-badge&logo=n8n&logoColor=white)
 ![Gemini](https://img.shields.io/badge/gemini-%238E75B2.svg?style=for-the-badge&logo=google&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117BAC.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+
 
 ### 📫 Let's Connect!
 [![Portfolio](https://img.shields.io/badge/Portfolio-15803d?style=for-the-badge&logo=Web&logoColor=white)](https://aaidilakbarr.github.io/)
