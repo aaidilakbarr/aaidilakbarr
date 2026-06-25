@@ -27,8 +27,7 @@ I'm a Junior Web Developer & Junior Systems Engineer with a background in Digita
 **Workflow, AI**
 ![n8n](https://img.shields.io/badge/n8n-%23EA4B33.svg?style=for-the-badge&logo=n8n&logoColor=white)
 ![Gemini](https://img.shields.io/badge/gemini-%238E75B2.svg?style=for-the-badge&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-555?logo=claude)
-
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ### 📫 Let's Connect!
 [![Portfolio](https://img.shields.io/badge/Portfolio-15803d?style=for-the-badge&logo=Web&logoColor=white)](https://aaidilakbarr.github.io/)
