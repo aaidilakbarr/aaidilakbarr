@@ -88,8 +88,8 @@ TBR is getting longer faster than my completed books.
 
 ---
 
-## 📈 GitHub Stats
-
+## 📈 The Git Stalker
+![Profile Views](https://komarev.com/ghpvc/?username=aaidilakbarr&color=15803d&style=for-the-badge&label=PROFILE+VIEWS)
 <!-- github-readme-stats -->
 
 ---
