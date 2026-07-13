@@ -2,7 +2,9 @@
 
 # Hi there, I'm Aidil 👋
 
-### Full-Stack Developer • React Enthusiast • AI Explorer
+### The Unstack Developer • React Die Hard • AI Explorer
+
+## debug debug and suddenly gedebug ##
 
 Building products, breaking things,
 then pretending it was part of the architecture.
@@ -16,7 +18,6 @@ then pretending it was part of the architecture.
 I'm a Software Engineering student from Indonesia who enjoys building things that people can actually use.
 
 Currently obsessed with:
-
 - ⚛️ React / Next.js
 - 🔥 Supabase
 - 🐘 Laravel
