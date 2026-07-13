@@ -1,34 +1,126 @@
-# Hi there! 👋 I'm Muhammad Aidil Akbar
+<div align="center">
 
-**"Learning, Living, and Leveling Up."**
+# Hi there, I'm Aidil 👋
 
-I'm a Junior Web Developer & Junior Systems Engineer with a background in Digital Concept Arts. I design and code for the web, valuing simple content structure, clean design patterns, and thoughtful interactions. Also addicted to Data Analytics
+### Full-Stack Developer • React Enthusiast • AI Explorer
 
-![Profile Views](https://komarev.com/ghpvc/?username=aaidilakbarr&color=15803d&style=for-the-badge&label=PROFILE+VIEWS)
+Building products, breaking things,
+then pretending it was part of the architecture.
 
-### 🛠️ Tech Stack & Tools
+</div>
 
-**Frontend & UI Design**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+---
 
-**Backend, Systems & Core**
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## 🚀 About Me
 
+I'm a Software Engineering student from Indonesia who enjoys building things that people can actually use.
 
-**Workflow, AI**
-![n8n](https://img.shields.io/badge/n8n-%23EA4B33.svg?style=for-the-badge&logo=n8n&logoColor=white)
-![Gemini](https://img.shields.io/badge/gemini-%238E75B2.svg?style=for-the-badge&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+Currently obsessed with:
 
-### 📫 Let's Connect!
-[![Portfolio](https://img.shields.io/badge/Portfolio-15803d?style=for-the-badge&logo=Web&logoColor=white)](https://aaidilakbarr.github.io/)
-[![Gmail](https://img.shields.io/badge/Gmail-15803d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aidilakbar05@gmail.com)
+- ⚛️ React / Next.js
+- 🔥 Supabase
+- 🐘 Laravel
+- 🤖 AI Coding Agents
+- 🎨 UI/UX
+- 📖 Reading books that make me question my existence.
+
+I believe good software should feel simple,
+even if the backend is secretly having a mental breakdown.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+React • TypeScript • JavaScript • Next.js • Tailwind CSS • Vite
+
+### Backend
+
+Laravel • Node.js • Express • Supabase
+
+### Database
+
+PostgreSQL • MySQL
+
+### Tools
+
+Git • GitHub • VS Code • Figma • Docker (learning) • MCP • 9router • Codex
+
+---
+
+## 🔥 Current Projects
+
+🏨 **NUS4STAY**
+
+Booking Management System
+powered by React + Supabase.
+
+Trying very hard to make double booking impossible.
+
+---
+
+🤖 Exploring AI-assisted development
+
+- Codex
+- Gemini
+- GLM
+- DeepSeek
+- MCP
+- 9router
+
+Basically...
+
+"If AI can automate it,
+I want to know how."
+
+---
+
+## 📚 Currently Reading
+
+- Tuesday with Morrie
+- White Night
+
+TBR is getting longer faster than my completed books.
+
+---
+
+## 📈 GitHub Stats
+
+<!-- github-readme-stats -->
+
+---
+
+## 🎯 2026 Goals
+
+- Build products people actually use
+- Master system design
+- Learn more backend architecture
+- Contribute to open source
+- Drink less coffee
+
+(ok maybe not the last one)
+
+---
+
+## Fun Fact
+
+```js
+while(alive){
+    eat();
+    code();
+    fixBug();
+
+    if(newBugAppears){
+        cry();
+    }
+
+    repeat();
+}
+```
+
+---
+
+> "Works on my machine."
+>
+> — every developer before production
