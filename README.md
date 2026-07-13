@@ -1,130 +1,159 @@
 <div align="center">
 
-# Hi there, I'm Aidil 👋
+# 👋 Hey, I'm Muhammad Aidil Akbar
 
-### The Unstack Developer • React Die Hard • AI Explorer
+### Full-Stack Developer • React Enthusiast • AI Workflow Explorer
 
-## debug debug and suddenly gedebug ##
+> ### 🧠 Life Tag
+> **"Debug Debug and Suddenly Gedebug."**
 
-Building products, breaking things,
-then pretending it was part of the architecture.
+---
+
+### 👀 The GitHub Stalker
+
+Visitors caught lurking around my profile 👇
+
+![](https://komarev.com/ghpvc/?username=aaidilakbarr&label=Profile+Views&color=blueviolet&style=for-the-badge)
+
+[![GitHub followers](https://img.shields.io/github/followers/aaidilakbarr?style=for-the-badge&color=blue)](https://github.com/aaidilakbarr?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/aaidilakbarr?affiliations=OWNER&style=for-the-badge&color=yellow)](https://github.com/aaidilakbarr?tab=repositories)
+
+---
+
+*"Building products, breaking things, then pretending it was part of the architecture."*
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a Software Engineering student from Indonesia who enjoys building things that people can actually use.
+Hi! I'm **Aidil**, a Unstack Developer from Indonesia 🇮🇩 who enjoys turning ideas into real-world applications.
 
-Currently obsessed with:
-- ⚛️ React / Next.js
-- 🔥 Supabase
-- 🐘 Laravel
-- 🤖 AI Coding Agents
-- 🎨 UI/UX
-- 📖 Reading books that make me question my existence.
+Currently focused on building scalable web applications using **React**, **TypeScript**, **Laravel**, and **Supabase**, while exploring how AI can improve the software development workflow.
 
-I believe good software should feel simple,
-even if the backend is secretly having a mental breakdown.
-
-### 📫 Let's Connect!
-[![Portfolio](https://img.shields.io/badge/Portfolio-15803d?style=for-the-badge&logo=Web&logoColor=white)](https://aaidilakbarr.github.io/)
+When I'm not coding, I'm usually:
+- 📚 Reading books that make me question life.
+- 🎮 Playing games (for "5 minutes"... yeah right).
+- 🎨 Tweaking UI until every pixel feels emotionally correct.
+- 🤖 Testing every new AI model that appears on the internet.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Frontend
+### 💻 Frontend
 
-React • TypeScript • JavaScript • Next.js • Tailwind CSS • Vite
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css" />
+</p>
 
-### Backend
+### ⚙️ Backend
 
-Laravel • Node.js • Express • Supabase
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,supabase" />
+</p>
 
-### Database
+### 🗄 Database
 
-PostgreSQL • MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
 
-### Tools
+### 🔧 Tools
 
-Git • GitHub • VS Code • Figma • Docker (learning) • MCP • 9router • Codex
-
----
-
-## 🔥 Current Projects
-
-🏨 **NUS4STAY**
-
-Booking Management System
-powered by React + Supabase.
-
-Trying very hard to make double booking impossible.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman,npm" />
+</p>
 
 ---
 
-🤖 Exploring AI-assisted development
+# 🔥 Current Focus
 
-- Codex
-- Gemini
-- GLM
-- DeepSeek
-- MCP
-- 9router
-
-Basically...
-
-"If AI can automate it,
-I want to know how."
+- 🏨 Building **NUS4STAY** (Hotel & Villa Booking System)
+- 🤖 AI-assisted development workflow
+- ⚡ System Design & Backend Architecture
+- 🔐 Authentication, RBAC & Security
+- 🚀 Clean and scalable applications
 
 ---
 
-## 📚 Currently Reading
+# 📚 Currently Reading
 
-- Tuesday with Morrie
-- White Night
+- 📖 Tuesday with Morrie
+- 📖 White Night
 
-TBR is getting longer faster than my completed books.
-
----
-
-## 📈 The Git Stalker
-![Profile Views](https://komarev.com/ghpvc/?username=aaidilakbarr&color=15803d&style=for-the-badge&label=PROFILE+VIEWS)
-<!-- github-readme-stats -->
+> My TBR grows faster than my completed books.
 
 ---
 
-## 🎯 2026 Goals
+# 📈 GitHub Stats
 
-- Build products people actually use
-- Master system design
-- Learn more backend architecture
-- Contribute to open source
-- Drink less coffee
+<div align="center">
 
-(ok maybe not the last one)
+![](https://github-readme-stats.vercel.app/api?username=aaidilakbarr&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=aaidilakbarr&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaidilakbarr&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## Fun Fact
+# 💭 Coding Philosophy
 
-```js
-while(alive){
-    eat();
+```javascript
+while (alive) {
     code();
-    fixBug();
+    debug();
 
-    if(newBugAppears){
-        cry();
+    if (newBugAppears) {
+        debugAgain();
     }
 
-    repeat();
+    deploy();
 }
 ```
 
+> **"Works on my machine."**  
+> *— Every developer before pushing to production.*
+
 ---
 
-> "Works on my machine."
->
-> — every developer before production
+# ⚡ Random Facts
+
+- 🐛 Professional Bug Creator (also Bug Destroyer... eventually.)
+- 🤖 AI is my coding partner, not my replacement.
+- ☕ Coffee is optional. Wi-Fi is mandatory.
+- 📚 My TBR has better scalability than my coding projects.
+- 💀 I fix one bug and unlock three new side quests.
+- 😎 90% coding, 10% wondering why it worked.
+- 💀 Be a dictator for Ai Model.
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build products people actually use
+- 🚀 Master Backend Architecture
+- 🧠 Become better at System Design
+- 🌍 Contribute to Open Source
+- 🤖 Automate everything that can be automated
+- ☕ Drink less coffee (highly unlikely)
+
+---
+
+<div align="center">
+
+### Thanks for stopping by! 🚀
+
+If you're reading this...
+
+You're either looking for inspiration,  
+want to collaborate,
+
+or you're just another **GitHub Stalker. 👀**
+
+⭐ If you like my work, don't forget to leave a star!
+
+</div>
