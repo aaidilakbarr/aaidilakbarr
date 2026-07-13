@@ -27,6 +27,9 @@ Currently obsessed with:
 I believe good software should feel simple,
 even if the backend is secretly having a mental breakdown.
 
+### 📫 Let's Connect!
+[![Portfolio](https://img.shields.io/badge/Portfolio-15803d?style=for-the-badge&logo=Web&logoColor=white)](https://aaidilakbarr.github.io/)
+
 ---
 
 ## 🛠 Tech Stack
