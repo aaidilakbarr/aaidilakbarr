@@ -71,8 +71,8 @@ When I'm not coding, I'm usually:
 # 🔥 Current Focus
 
 - 🏨 Building **NUS4STAY** (Hotel & Villa Booking System) For PTPN IV Reg II
+- 🔧 Developing **SiGAP** (Sistem Informasi Gerak Alur Proposal) For PTPN IV Reg II
 - 🤖 AI-assisted development workflow
-- 
 ---
 
 # 📚 Currently Reading
