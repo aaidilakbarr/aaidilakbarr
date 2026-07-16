@@ -70,12 +70,9 @@ When I'm not coding, I'm usually:
 
 # 🔥 Current Focus
 
-- 🏨 Building **NUS4STAY** (Hotel & Villa Booking System)
+- 🏨 Building **NUS4STAY** (Hotel & Villa Booking System) For PTPN IV Reg II
 - 🤖 AI-assisted development workflow
-- ⚡ System Design & Backend Architecture
-- 🔐 Authentication, RBAC & Security
-- 🚀 Clean and scalable applications
-
+- 
 ---
 
 # 📚 Currently Reading
