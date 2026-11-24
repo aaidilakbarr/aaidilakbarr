@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Muhammad Aidil Akbar
 
-### Full-Stack Developer • React Enthusiast • AI Workflow Explorer
+### UnStack Developer • The AI Explorer
 
 ## 🧠 Life Tag
 **[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair&weight=800&pause=1000&background=1535FF00&center=true&vCenter=true&width=435&lines=Debug+Debug+and+Suddenly+Gedebug)](https://git.io/typing-svg)**
